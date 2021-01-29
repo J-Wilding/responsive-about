@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="168.992mm"
+   height="101.6mm"
+   viewBox="0 0 168.992 101.6"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Wilding-Family-Logo 2.3blue.svg">
+  <defs
+     id="defs2">
+    <filter
+       y="-0.024434596"
+       height="1.0488692"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter865"
+       x="-0.01639117"
+       width="1.0327823">
+      <feGaussianBlur
+         stdDeviation="0.38929668"
+         result="result6"
+         id="feGaussianBlur855" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite857" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite859" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix861" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend863" />
+    </filter>
+    <filter
+       y="-0.32647192"
+       height="1.7612365"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter883"
+       x="-0.32858002"
+       width="1.5502405">
+      <feGaussianBlur
+         stdDeviation="2.7893476"
+         result="result6"
+         id="feGaussianBlur873" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite875" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite877" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix879" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend881" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="236.20583"
+     inkscape:cy="151.68654"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.946164,-13.77956)">
+    <path
+       id="path853"
+       style="mix-blend-mode:normal;stroke-width:4.23328"
+       d="m 64.600455,13.779562 c -5.524384,0 -10.178488,3.54752 -11.9226,8.47504 -7.192367,-0.9392 -14.932231,4.36464 -14.932231,12.69168 0,5.49904 3.637864,9.82352 8.408672,11.89792 5.050344,2.20128 10.594535,4.63328 12.757695,13.50208 h 4.233272 c 9.126936,-17.06464 17.661215,-8.46672 27.516279,-8.46672 10.519738,0 19.049738,-8.53008 19.049738,-19.04992 0,-10.51984 -8.53,-19.05008 -19.049738,-19.05008 -5.968872,0 -11.233072,2.79744 -14.725488,7.09408 -2.078536,-4.18656 -6.344615,-7.09408 -11.335599,-7.09408 z m 70.427785,16.93328 -32.62024,58.96079 -9.648469,-12.39407 -9.101053,11.71615 -16.279943,-24.41615 c -1.540912,1.3376 -3.945448,2.00096 -6.349912,2.00096 -2.404408,0 -4.80912,-0.664 -6.349904,-2.00096 l -33.86619,50.799988 h 67.393421 34.20515 51.51865 c 8.75026,0 15.87478,-7.12048 15.87478,-15.875038 0,-7.50992 -5.25114,-13.8232 -12.2699,-15.4616 -2.15468,-6.36687 -9.75647,-10.57119 -16.10631,-8.08623 z m 0.18192,16.71024 23.37398,40.43983 c 3.70406,-7.53967 14.08613,-2.91472 11.37692,4.67152 5.38041,-2.1168 11.37693,0.9504 11.37693,6.97008 0,4.085118 -3.3232,7.408318 -7.40824,7.408318 H 160.122 c -6.41338,-0.032 -10.6002,-7.000958 -7.22634,-12.741278 l -15.22161,-26.81391 -4.56398,8.06976 -4.23327,-8.06976 -12.80729,15.38719 z m 21.67902,1.48 -3.67106,2.10832 11.24464,19.5792 3.671,-2.10848 z m 13.95655,6.68896 -3.67105,2.10832 11.24463,19.5792 3.67106,-2.10832 z M 58.010783,74.840522 c 1.955648,0.28 4.07144,0.28 6.03572,0 l 12.038367,18.06607 -0.0496,-0.032 -10.690671,-7.22656 -4.059664,4.40704 -4.233272,-4.316 -10.591439,6.41616 z m 34.748748,16.13119 11.032449,13.679408 -10.477235,-7.390252 -6.381348,1.832344 z"
+       sodipodi:nodetypes="scscccssscscccccsccccssccccccssccccccccccccccccccccccccccccccc" />
+    <path
+       id="path831-3"
+       style="opacity:0.996721;mix-blend-mode:normal;fill:none;stroke:#2c50ff;stroke-width:2.365;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 123.33058,59.818844 103.06409,96.030911 92.759531,83.212137 83.629482,95.501744 69.419607,74.440434"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

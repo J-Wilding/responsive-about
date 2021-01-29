@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #17364F;
+}
+
+header a {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fff;
+}
+
+header a:hover {
+    color: #0A1E36;
+    transition: all .3s ease 0s;
+}
+
+.main-nav {
+    padding: 5px 2%;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.main-nav.logo {
+    width: 40px;
+    margin-right: 5px;
+    position: relative;
+    top: 3px;
+}
+
+.main-nav.links {
+    visibility: hidden;
+}
+
+.header_image {
+    display: block;
+    height: 500px;
+    width: 100%;
+    border-top:1px solid white;
+    border-bottom: 1px solid white;
+    object-fit: cover;
+}
+
+.image-float {
+    display: none;
+}
+
+h1 {
+    /* font-weight: bold; */
+    font-size: 3rem;
+    padding-top: 1rem;
+}
+
+h3 {
+    font-weight: 500;
+}
+
+p, li {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+p {
+    margin: 1em;
+}
+
+article {
+    background-color: #0B1E2F;
+}
+
+.content-container {
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+    width: 100%;
+    height: 350px;
+}
+
+.body-about {
+    background-color: #456E8C;
+}
+
+.body-linkedin {
+    background-color: #19415C;
+}
+
+.body-github {
+    background-color: #051425;
+}
+
+footer {
+    background-color: #040B1D;
+}
+
+@media screen and (min-width: 720px) {
+    .body-about,
+    .body-github,
+    .body-linkedin {
+        width: 33.3%;
+        height: 500px;
+    }
+
+    .body-github {
+        order: 2;
+    }
+
+    .body-about {
+        order: 1;
+    }
+
+    .main-nav.links {
+        visibility: visible;
+        display: flex;
+        justify-content: flex-end;
+        
+    }    
+
+    .main-nav.links ul {
+        display: flex;
+        list-style: none;
+        justify-content: space-between;
+    }
+
+    .main-nav.links li {
+        margin: 0 20px;
+    }
+
+    .floating {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    .header_image {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    .image-float {
+        display: block;
+        position: absolute;
+        z-index: 1;
+        top: 5;
+        right: 0;
+        border-radius: 5%;
+    }
+}
