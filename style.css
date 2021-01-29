@@ -174,4 +174,8 @@ footer {
         right: 0;
         border-radius: 5%;
     }
+
+    .main-nav.logo {
+        width: 3.5em;
+    }
 }
