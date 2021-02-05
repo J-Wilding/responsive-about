@@ -172,7 +172,7 @@ footer {
         z-index: 1;
         top: 5;
         right: 0;
-        border-radius: 5%;
+        border-radius: 5 %;
     }
 
     .main-nav.logo {
